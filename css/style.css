@@ -1,0 +1,25 @@
+.content{
+    font-family: AppleGothic;
+}
+
+.centered{
+    margin: auto;
+    width: 50%;
+    display: block;
+}
+
+img{
+    border-radius: 50%;
+    width: 500px;
+    margin: auto;
+    width: 50%;
+    display: block;
+}
+
+#heading{
+    font-family: AppleGothic;
+}
+
+body{
+    background-color: blanchedalmond;
+}
