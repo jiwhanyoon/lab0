@@ -1,5 +1,6 @@
 # About Me
 CS100 lab0
+### https://jiwhanyoon.github.io/lab0/
 
 ## tell you about myself
 Hi, and welcome to my page. I wanted to show the world what my past couple years of college looked like. It's my first time writing a page like this, to tell you about the activities I've done on campus, off campus, and the adventures I've been able to experience. 
