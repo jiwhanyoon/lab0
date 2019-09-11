@@ -28,3 +28,12 @@
 body{
     background-color: blanchedalmond;
 }
+
+td, th{
+    border: 1px solid black;
+    text-align: center;
+}
+
+table{
+    width: 100%;
+}
